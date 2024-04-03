@@ -1,0 +1,3 @@
+14:19:53.037 INFO  manager.ApplicationManager - All tests run in Chrome Browser
+14:19:56.552 INFO  manager.ApplicationManager - The link-->https://telranedu.web.app/home
+14:19:56.610 INFO  tests.TestBase - Name of method -->loginSuccessModel

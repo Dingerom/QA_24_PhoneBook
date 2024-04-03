@@ -1,0 +1,5 @@
+14:22:16.387 INFO  manager.ApplicationManager - All tests run in Chrome Browser
+14:22:20.597 INFO  manager.ApplicationManager - The link-->https://telranedu.web.app/home
+14:22:20.662 INFO  tests.TestBase - Name of method -->loginSuccess
+14:22:25.696 INFO  tests.TestBase - Start test with name 'loginSuccess'
+14:22:25.697 INFO  tests.TestBase - Test data --->email: dingerom@gmail.com, password:Dj12345$

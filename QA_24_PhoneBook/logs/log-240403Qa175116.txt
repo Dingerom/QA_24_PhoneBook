@@ -1,0 +1,16 @@
+17:51:18.984 INFO  manager.ApplicationManager - All tests run in Chrome Browser
+17:51:21.012 INFO  manager.ApplicationManager - The link-->https://telranedu.web.app/home
+17:51:26.941 INFO  tests.TestBase - Name of method -->addContactSuccessAllFields
+17:51:26.948 INFO  tests.TestBase - Tests run with data: --->Contact(name=Tony, lastName=Stark, email=stark3086@gmail.com, address=NY, phone=123653333086, description=all fields)
+17:51:31.896 INFO  tests.TestBase - Name of method -->addContactSuccessRequiredFields
+17:51:31.898 INFO  tests.TestBase - Tests run with data: --->Contact(name=TonyReq3091, lastName=Stark, email=stark3091@gmail.com, address=NY, phone=123653333091, description=null)
+17:51:34.275 INFO  tests.TestBase - Name of method -->addNewContactWrongAddress
+17:51:34.276 INFO  tests.TestBase - Tests run with data: --->Contact(name=Tony, lastName=Stark, email=stark@gmail.com, address=, phone=12365333556, description=empty address)
+17:51:36.102 INFO  tests.TestBase - Name of method -->addNewContactWrongEmail
+17:51:36.103 INFO  tests.TestBase - Tests run with data: --->Contact(name=Tony, lastName=Stark, email=starkgmail.com, address=NY, phone=12365333562, description=wrong email)
+17:51:38.606 INFO  tests.TestBase - Name of method -->addNewContactWrongLastName
+17:51:38.608 INFO  tests.TestBase - Tests run with data: --->Contact(name=Tony, lastName=, email=stark@gmail.com, address=NY, phone=12365334563, description=empty last name)
+17:51:40.500 INFO  tests.TestBase - Name of method -->addNewContactWrongName
+17:51:40.501 INFO  tests.TestBase - Tests run with data: --->Contact(name=, lastName=Stark, email=stark@gmail.com, address=NY, phone=12365335553, description=empty name)
+17:51:42.389 INFO  tests.TestBase - Name of method -->addNewContactWrongPhone
+17:51:42.390 INFO  tests.TestBase - Tests run with data: --->Contact(name=Tony, lastName=Stark, email=stark@gmail.com, address=NY, phone=123, description=wrong phone)

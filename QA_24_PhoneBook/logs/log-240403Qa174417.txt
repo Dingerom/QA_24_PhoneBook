@@ -1,0 +1,2 @@
+17:44:20.085 INFO  manager.ApplicationManager - All tests run in Chrome Browser
+17:44:51.038 INFO  manager.ApplicationManager - The link-->https://telranedu.web.app/

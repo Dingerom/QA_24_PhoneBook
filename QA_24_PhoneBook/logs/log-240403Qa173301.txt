@@ -1,0 +1,1 @@
+17:33:03.705 INFO  manager.ApplicationManager - All tests run in Chrome Browser
