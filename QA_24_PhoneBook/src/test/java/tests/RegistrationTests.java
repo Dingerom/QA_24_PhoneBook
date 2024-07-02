@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import java.util.Random;
 
-public class RegistrationTests extends TestBase{
+public class RegistrationTests extends TestBase {
 
     @BeforeMethod
     public void preCondition(){

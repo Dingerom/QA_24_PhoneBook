@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/QA_24_PhoneBook.iml" filepath="$PROJECT_DIR$/.idea/QA_24_PhoneBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QA_24_PhoneBook.QA_24_PhoneBook.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/QA_24_PhoneBook.QA_24_PhoneBook.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QA_24_PhoneBook.QA_24_PhoneBook.test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/QA_24_PhoneBook.QA_24_PhoneBook.test~1.iml" />
+    </modules>
+  </component>
+</project>
